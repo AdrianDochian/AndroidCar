@@ -1,7 +1,3 @@
-// surse de inspirație
-// 1) https://github.com/CytronTechnologies/Cytron-Shield2AMotor pentru determinarea pinilor de control
-// 2) https://www.youtube.com/watch?v=jxnIclUFjJg&feature=youtu.be 
-
 char command;
 
 // LEFT MOTOR
